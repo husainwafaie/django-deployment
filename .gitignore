@@ -2,3 +2,4 @@
 main/.cache
 main/db.sqlite3
 main/main/__pycache__/
+main/deploy/__pycache__/
